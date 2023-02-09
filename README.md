@@ -1,7 +1,7 @@
 # MetalSNe : Jupyter Notebooks for Planning IFU observations of Hosts of Core Collapse Supernovae (CCSNe)
 
 [![Python 3.10.5](https://img.shields.io/badge/python-3.10.5-blue)](https://www.python.org/downloads/release/python-395/)
-[![License](https://img.shields.io/github/license/sPaMFouR/RedPipe)](https://github.com/sPaMFouR/RedPipe)
+[![License](https://img.shields.io/github/license/sPaMFouR/MetalSNe)](https://github.com/sPaMFouR/MetalSNe)
 
 The code just began development in Oct 2022.
 
